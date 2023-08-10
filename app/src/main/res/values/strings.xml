@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sharing_stories_android_test</string>
+
+    <string name="btn1">Share on Facebook story</string>
+    <string name="message_btn1">Let\'s try sharing on facebook story</string>
+
+    <string name="btn2">Share on instagram story</string>
+    <string name="message_btn2">Let\'s try sharing on instagram story</string>
+
+</resources>
